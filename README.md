@@ -5,8 +5,11 @@ a. BabyAGI with Langchain (colab + demo)
      https://colab.research.google.com/drive/1qjRQ9OQ291VTyUuLpVXJwFWtWMWdqr0d?usp=share_link
       
 b. AgentGPT demo
+
 c. Jarvis HuggingGPT demo
+
 d. Visual GPT demo
+
 e. OpenAI chat with excel (colab + demo)
 
       https://colab.research.google.com/drive/1JHkyR_BJF7IarXkVpv4mg0d0Msx2ONnm?usp=share_link
